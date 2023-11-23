@@ -1,0 +1,91 @@
+.header {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.header .title {
+    padding: 10px;
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.subtitle {
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+}
+
+.students {
+    margin-top: 6px;
+}
+
+.subtitle-minimun {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.header .subtitle {
+    margin-bottom: 25px;
+    
+}
+
+.body-explain {
+    display: flex;
+    margin-top: 12px;
+    margin-bottom: 40px;
+    margin-left: 150px;
+    margin-right: 80px;
+}
+
+.body-text #img-popcorn{
+    float: left;
+    width: 35px;
+    margin: 12px;
+}
+
+.img-moovie{
+    width: 35px;
+    margin: 12px;
+}
+
+#moovie-one{
+    float: left;
+}
+
+#moovie-two{
+    float: right;
+}
+
+.body-explain .info {
+    max-width: 50%;
+    width: 50%;
+}
+
+.body-explain .body-text {
+    max-width: 50%;
+    text-align: justify;
+}
+
+
+.body-text .context {
+    font-family: 'EB Garamond', serif;
+}
+
+.body-iframes {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 80px;
+}
+
+#bitable {
+    margin-top: 20px;
+    width: 1600px;
+    height: 900px;
+}
+
+#img-bi{
+    width: 35px;
+    margin: 12px;
+    float: left;
+}
